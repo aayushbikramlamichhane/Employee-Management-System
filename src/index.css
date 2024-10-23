@@ -8,3 +8,7 @@
 body{
   background-color: #111;
 }
+#tasklisk::-webkit-scrollbar{
+  /* display: none; */
+  background-color: red;
+}
