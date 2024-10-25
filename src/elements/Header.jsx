@@ -1,6 +1,6 @@
 
 
-const Header = () => {
+const Header = ({data}) => {
     return (
         <div className="flex items-end justify-between">
             <h1 className="text-2xl font-medium">Hello 
